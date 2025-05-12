@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/your-repository-name/static/css/main.2bc80bb1.css",
+    "main.js": "/your-repository-name/static/js/main.5962e6ce.js",
+    "static/js/453.a2e4372f.chunk.js": "/your-repository-name/static/js/453.a2e4372f.chunk.js",
+    "static/media/passphoto_sujata.jpeg": "/your-repository-name/static/media/passphoto_sujata.d264dccea14c1d9fcfcc.jpeg",
+    "index.html": "/your-repository-name/index.html",
+    "main.2bc80bb1.css.map": "/your-repository-name/static/css/main.2bc80bb1.css.map",
+    "main.5962e6ce.js.map": "/your-repository-name/static/js/main.5962e6ce.js.map",
+    "453.a2e4372f.chunk.js.map": "/your-repository-name/static/js/453.a2e4372f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc80bb1.css",
+    "static/js/main.5962e6ce.js"
+  ]
+}
